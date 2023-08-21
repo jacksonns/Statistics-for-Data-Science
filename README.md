@@ -4,3 +4,4 @@ Exercícios resolvidos sobre fundamentos estatísticos para Ciência dos Dados. 
 
 * Visualizações básicas (histogramas, boxplot, steam and leafs)
 * Árvores de Classificação
+* Distribuições de Probabilidade (Binomial, Poisson, Pareto, Gaussiana)
