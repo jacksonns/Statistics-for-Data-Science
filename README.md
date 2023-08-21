@@ -9,3 +9,4 @@ Exercícios resolvidos sobre fundamentos estatísticos para Ciência dos Dados. 
 * Amostragem e Simulação (Box-Mueller, Transformada Inversa, Aceitação-Rejeição, Importance Sampling)
 * Distribuições Multivariadas (Gaussiana)
 * Principal Component Analysis (PCA)
+* Esperança Iterada
