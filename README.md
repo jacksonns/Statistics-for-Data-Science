@@ -6,3 +6,4 @@ Exercícios resolvidos sobre fundamentos estatísticos para Ciência dos Dados. 
 * Árvores de Classificação
 * Distribuições de Probabilidade (Binomial, Poisson, Pareto, Gaussiana)
 * Testes Estatísticos (Qui-Quadrado, Kolmogorov-Smirnov)
+* Amostragem e Simulação (Box-Mueller, Transformada Inversa, Aceitação-Rejeição, Importance Sampling)
