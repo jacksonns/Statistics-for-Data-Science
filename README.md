@@ -11,3 +11,4 @@ Exercícios resolvidos sobre fundamentos estatísticos para Ciência dos Dados. 
 * [Principal Component Analysis (PCA)](https://github.com/jacksonns/Statistics-for-Data-Science/tree/main/pca)
 * [Esperança Iterada](https://github.com/jacksonns/Statistics-for-Data-Science/tree/main/esperan%C3%A7a_iterada)
 * [Regressão Linear](https://github.com/jacksonns/Statistics-for-Data-Science/tree/main/regress%C3%A3o_linear)
+* [Regressão Logística (Newton-Raphson)](https://github.com/jacksonns/Statistics-for-Data-Science/tree/main/regressao_logistica)
